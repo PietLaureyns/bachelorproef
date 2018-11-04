@@ -6,3 +6,7 @@ https://docs.confluent.io/current/streams/index.html
 https://www.baeldung.com/java-kafka-streams
 https://www.manning.com/books/kafka-streams-in-action
 https://spark.apache.org/streaming/
+
+
+5/11  14u  lokaal 1.037
+
